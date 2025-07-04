@@ -1,0 +1,3 @@
+Télécharger le fichier nécessaire pour fasttext : lid.176.bin
+
+Sur le lien suivant : https://fasttext.cc/docs/en/language-identification.html
