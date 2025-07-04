@@ -120,6 +120,8 @@ Pour reproduire les résultats, veuillez exécuter les notebooks dans l'ordre su
 
 ## Organisation du projet
 
+```
+
 ├── README.md          <- README principal pour les développeurs utilisant ce projet.
 ├── data
 │   ├── processed      <- Jeux de données finaux et canoniques pour la modélisation.
@@ -138,5 +140,7 @@ Pour reproduire les résultats, veuillez exécuter les notebooks dans l'ordre su
 │   └── requirements_Texte.txt     <- Le fichier de dépendances pour reproduire l'environnement d'analyse du notebook `2.0_Projet_Rakuten_Deep_Learning_Texte.ipynb`.
 │   └── requirements_Images.txt    <- Le fichier de dépendances pour reproduire l'environnement d'analyse du notebook `3.0_Projet_Rakuten_Deep_Learning_Images.ipynb`.
 │   └── requirements_Meta.txt      <- Le fichier de dépendances pour reproduire l'environnement d'analyse du notebook `4.0_Projet_Rakuten_Deep_Learning_Meta.ipynb`.
+
+```
 
 <!-- end list -->
