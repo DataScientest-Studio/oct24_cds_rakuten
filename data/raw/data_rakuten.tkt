@@ -1,0 +1,8 @@
+Télécharger les données de Rakuten pour ce projet :
+
+Voici les fichiers necessaires pour exectuer les notebooks :
+- images (faire un .zip nommé image_train)
+- X_train_update.csv (à renommer X_train)
+- Y_train_CVw08PX.csv (à renommer Y_train)
+
+Sur le lien suivant : https://www.kaggle.com/datasets/parth70142/rakuten
